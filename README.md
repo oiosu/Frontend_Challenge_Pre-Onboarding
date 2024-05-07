@@ -73,13 +73,13 @@
 
 > SPA에서는 초기에 빈 페이지만 로드되기 때문에 이 미리보기가 제대로 표시되지 않는다 SSR을 사용하면 페이지의 초기 상태가 서버에서 렌더링되므로 미리보기가 정확하게 표시됩니다.
 
+---
 
- * Next.js 프로젝트에서 yarn start(or npm run start) 스크립트를 실행했을 때 실행되는 코드를 Next.js Github 레포지토리에서 찾은 뒤, 
+
+#### 💡 Next.js 프로젝트에서 yarn start(or npm run start) 스크립트를 실행했을 때 실행되는 코드를 Next.js Github 레포지토리에서 찾은 뒤, 
    해당 파일에 대한 간단한 설명을 첨부해주세요.
    
- * https://nextjs.org/docs/getting-started (Next.js 세팅 가이드)
-   
- * https://github.com/vercel/next.js/ (Next.js Github 레포지토리)
-   
- * _document.js, _app.js, getServerSideProps 같은 요소들에 대해 설명을 요구하는 과제가 아닙니다. 
+> * `https://nextjs.org/docs/getting-started` (Next.js 세팅 가이드)
+> * `https://github.com/vercel/next.js/` (Next.js Github 레포지토리)
+> * _document.js, _app.js, getServerSideProps 같은 요소들에 대해 설명을 요구하는 과제가 아닙니다. 
    오히려 Next.js 코드 베이스 내부를 살펴보라는 의미입니다.
