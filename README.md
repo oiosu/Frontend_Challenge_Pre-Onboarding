@@ -4,7 +4,7 @@
 
 ### 👻 원티드 프리온보딩 챌린지 - CSR / SSR with Next.js
 
- * CSR(Client-side Rendering)이란 무엇이며, 그것의 장단점에 대하여 설명해주세요.
+#### 💡 CSR(Client-side Rendering)이란 무엇이며, 그것의 장단점에 대하여 설명해주세요.
    > CSR(Client-side Rendering) : 클라이언트 측에서 페이지를 렌더링하는 방식
 
    > CSR은 SPA로 동작한다. (SPA(Single-Page Application) : 하나의 페이지로 구성된 웹 어플리케이션)
