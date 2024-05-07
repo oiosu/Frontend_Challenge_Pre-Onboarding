@@ -1,5 +1,12 @@
 ### 👻 성장을 이끄는 프레임워크: 프론트엔드 주니어를 위한 네 가지 질문
 
+#### 🪼 '나'는 어떤 성격을 가진 사람인가요?
+![image](https://github.com/oiosu/Frontend_Challenge_Pre-Onboarding/assets/99783474/50e1bc92-97b8-431c-9ec7-39dcfd8721d6)
+
+
+
+</br>
+
 #### 🪼 무엇을 좋아하고 싫어하나요?
 ![image](https://github.com/oiosu/Frontend_Challenge_Pre-Onboarding/assets/99783474/b8f3faa0-e954-4d61-8a35-8a919b862905)
 
